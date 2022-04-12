@@ -1,0 +1,9 @@
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Release\WebParsing.exe.config
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Release\WebParsing.exe
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Release\WebParsing.pdb
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Release\WebDriver.dll
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Release\WebDriver.xml
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Release\WebParsing.csprojAssemblyReference.cache
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Release\WebParsing.csproj.CopyComplete
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Release\WebParsing.exe
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Release\WebParsing.pdb

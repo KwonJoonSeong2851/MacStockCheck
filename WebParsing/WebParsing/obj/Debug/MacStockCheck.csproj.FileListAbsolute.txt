@@ -1,0 +1,9 @@
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Debug\MacStockCheck.exe.config
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Debug\MacStockCheck.exe
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Debug\MacStockCheck.pdb
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Debug\WebDriver.dll
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\bin\Debug\WebDriver.xml
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Debug\MacStockCheck.csprojAssemblyReference.cache
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Debug\MacStockCheck.csproj.CopyComplete
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Debug\MacStockCheck.exe
+C:\Users\KwonJoonSeong\source\repos\WebParsing\WebParsing\obj\Debug\MacStockCheck.pdb
